@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Aditya Adavade!  
-🚀 Software Developer | 💡 Open Source Enthusiast | 🎯 Passionate About Problem Solving  
+🚀 Full Stack Developer | 🎯 Passionate About Problem Solving  
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,12 +23,6 @@
 
 ---
 
-## 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)  
-
----
 
 [![](https://visitcount.itsvg.in/api?id=aditya-adavade12&icon=8&color=12)](https://visitcount.itsvg.in)
 
