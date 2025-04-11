@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Aditya Adavade!  
+# Hi, I'm Aditya Adavade!  
 🚀 Full Stack Developer | 🎯 Passionate About Problem Solving  
 
 ## 💻 Tech Stack:
