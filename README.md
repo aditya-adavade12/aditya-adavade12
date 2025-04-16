@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Activity
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 30px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 20px; margin-bottom: 30px;">
   <div style="width: 48%;">
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=aditya-adavade12&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
